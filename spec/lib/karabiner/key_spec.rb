@@ -71,6 +71,7 @@ describe Karabiner::Key do
       "Shift_R" => "KeyCode::SHIFT_R",
       "Shift_L" => "KeyCode::SHIFT_L",
       "Esc"     => "KeyCode::ESCAPE",
+      "Jis_Colon"     => "KeyCode::JIS_COLON",
 
       "Brightness Down"     => "ConsumerKeyCode::BRIGHTNESS_DOWN",
       "Brightness Up"       => "ConsumerKeyCode::BRIGHTNESS_UP",
